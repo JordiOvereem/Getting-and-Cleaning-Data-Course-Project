@@ -3,6 +3,7 @@ Programming Assignment - Coursera Getting and Cleaning Data
 by Jordi Overeem
 
 The R-script "run_analysis.R" does the following:
+
 1.Merges the training and the test sets to create one data set.
 
 2.Extracts only the measurements on the mean and standard deviation for each measurement. 
