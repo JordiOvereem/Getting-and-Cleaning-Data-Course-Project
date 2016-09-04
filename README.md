@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 ## Programming Assignment - Coursera Getting and Cleaning Data
-### by Jordi Overeem
+##### by Jordi Overeem
 
 The R-script "run_analysis.R" does the following:
 
